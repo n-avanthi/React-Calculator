@@ -4,7 +4,8 @@
 
 body {
     margin: 0;
-    background: linear-gradient(to right, #eeaeca, #94bbe9);
+    /* background: linear-gradient(to right, #eeaeca, #94bbe9); */
+    background-image: url(D:\Avanthi\personal\React-Calculator\public\bg_img4.jpg);
 }
 
 .calculator-grid {
