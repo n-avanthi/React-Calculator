@@ -5,15 +5,18 @@ This is a simple calculator application built using React. It supports basic ari
 ## Installation
 
 To get started with the React Calculator App, follow these steps:
-1. **Clone the repository:**
+1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/react-calculator.git
-    cd react-calculator
+    git clone https://github.com/n-avanthi/react-calculator.git
     ```
+2. Navigate to project directory:
+   ```bash
+   cd react-calculator
+   ```
 
-2. **Install dependencies:**
-
+3. Install dependencies:
+   
     Make sure you have [Node.js](https://nodejs.org/) installed. Then, run:
 
     ```bash
@@ -23,13 +26,13 @@ To get started with the React Calculator App, follow these steps:
 
 To start the development server and use the calculator:
 
-1. **Start the development server:**
+1. Start the development server:
 
     ```bash
     npm start
     ```
 
-2. **Open your browser and navigate to:**
+2. Open your browser and navigate to:
 
     ```
     http://localhost:3000
